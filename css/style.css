@@ -113,6 +113,10 @@ img {
     padding:10px;
     border: 2px solid #dfe2e6;
 }
+.online li{
+    margin-left: 40px;
+}
+
 
 /* =================================
   Media Queries
@@ -126,7 +130,7 @@ img {
     }
 
     .name
-     {
+    {
         float: left;
     }
 
