@@ -73,6 +73,11 @@ img {
 .main-header {
     padding-top: .5em;
     padding-bottom: .5em;
+    position: fixed;
+    background-color: azure;
+    width: 100%;
+    box-shadow: 0 1px 4px rgba(0,0,0, .7);
+
 }
 
 .banner,
@@ -83,7 +88,7 @@ img {
 .banner {
     color: #fff;
     background: #3acec2;
-    padding: 1.2em 0;
+    padding: 5.2em 0;
     margin-bottom: 30px;
 }
 
