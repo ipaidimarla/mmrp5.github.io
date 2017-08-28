@@ -87,7 +87,8 @@ img {
 
 .banner {
     color: #fff;
-    background: #3acec2;
+    /*background: #3acec2;*/
+    background: radial-gradient(closest-side at 30% 5%, teal, lightblue);
     padding-top: 15.2em ;
     padding-bottom: 2.2em;
     margin-bottom: 30px;
@@ -121,7 +122,12 @@ img {
 }
 .online li{
     margin-left: 40px;
+
 }
+.online a{
+    color: #3a3a3a;
+}
+
 
 /* =================================
   Media Queries
